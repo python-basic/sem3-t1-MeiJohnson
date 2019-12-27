@@ -36,7 +36,7 @@ $ jupyter notebook
 ```
 ![](img/4.png)
 
-Также Jypter позволяет верстать странички на языке разметки Markdown, используя при этом LaTeX:
+Также Jupyter позволяет верстать странички на языке разметки Markdown, используя при этом LaTeX:
 ![](img/5.png)
 
 Для того чтобы писать на Md нужно в панели инструментов выставить свойство "Markdown".
@@ -50,6 +50,6 @@ $ jupyter notebook
 ```
 ![](img/10.png)
 
-Информация по ним можно найти [здесь](https://ipython.org/ipython-doc/3/interactive/magics.html) и [здесь](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
+Информацию по ним можно найти [здесь](https://ipython.org/ipython-doc/3/interactive/magics.html) и [здесь](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
 
 Записи с гайдами по JN есть [здесь](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks).
